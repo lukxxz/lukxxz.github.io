@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: purple;
+}
+
+div {
+    background-color: violet;
+    margin: 20%;
+    border-radius: 20%;
+    padding: 2%;
+
+}
+a {
+    margin: 20px;
+}
